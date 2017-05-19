@@ -1,0 +1,11 @@
+.table {
+  display: table;
+  margin: auto;
+  border: solid;
+}
+
+.table-cell {
+  display: table-cell;
+  margin: auto;
+  border: solid;
+}
